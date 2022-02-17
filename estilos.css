@@ -36,5 +36,9 @@ body{
 
 #post{
     padding: 1em;
-    background-color: white;
+}
+
+#footer{
+    background-color: cornsilk;
+    text-align: center;
 }
